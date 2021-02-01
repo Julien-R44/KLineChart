@@ -2,7 +2,7 @@
   "name": "klinecharts",
   "version": "6.2.0",
   "description": "Lightweight k-line chart built with html5 canvas",
-  "main": "index.js",
+  "main": "src/index.js",
   "types": "./types/index.d.ts",
   "files": [
     "LICENSE",
@@ -14,6 +14,7 @@
     "types/",
     "dist/",
     "lib/",
+    "src/",
     "licenses/",
     "NOTICE"
   ],
